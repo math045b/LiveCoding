@@ -1,0 +1,10 @@
+Linux:
+
+ls: Viser hvad der er i den mappe du er i
+cd <Path>: Change Directory - Ændre den mappe du er i
+mkdir <Path>: Make Directory - Lav en ny mappe
+nano <Path>: En IDE du kan bruge i terminalen
+cat <Path>: Viser indholdet af en fil
+javac <Path>: Compiles java file
+java <Path>: Runs compiled java file (a .class file)
+mv <Source Path> <Target Path>: Move - Kan bruges til at flytte filer eller at ombøbe filer

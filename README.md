@@ -1,1 +1,2 @@
-# Live-Coding
+# LiveCoding
+Velkommen til LiveCoding
