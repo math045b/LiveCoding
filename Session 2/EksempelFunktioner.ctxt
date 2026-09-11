@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EksempelFunktioner
+comment1.params=y
+comment1.target=int\ sampleMethod(int)
+comment2.params=number
+comment2.target=boolean\ isEven(int)
+comment3.params=
+comment3.target=java.util.ArrayList\ createList()
+comment4.params=listFromArgument
+comment4.target=void\ printList(java.util.ArrayList)
+comment5.params=
+comment5.target=void\ printAnswers()
+numComments=6

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MovieRater
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=ratings
+comment2.target=double\ calculate_average_rating(java.util.List)
+comment3.params=
+comment3.target=java.util.List\ generate_ratings()
+numComments=4
